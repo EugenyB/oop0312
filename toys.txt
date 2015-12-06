@@ -1,0 +1,4 @@
+Toy{name='Masha', type='Doll', price=100, parameter=15}
+Toy{name='Lego 1', type='Constructor', price=250, parameter=100}
+Toy{name='Big Ball', type='Ball', price=150, parameter=75}
+Toy{name='Dasha', type='Doll', price=200, parameter=25}
